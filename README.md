@@ -1,5 +1,10 @@
 # mango-pflag
 
+[![Latest Release](https://img.shields.io/github/release/muesli/mango-pflag.svg)](https://github.com/muesli/mango-pflag/releases)
+[![Build Status](https://github.com/muesli/mango-pflag/workflows/build/badge.svg)](https://github.com/muesli/mango-pflag/actions)
+[![Go ReportCard](https://goreportcard.com/badge/muesli/mango-pflag)](https://goreportcard.com/report/muesli/mango-pflag)
+[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://pkg.go.dev/github.com/muesli/mango-pflag)
+
 pflag adapter for [mango](https://github.com/muesli/mango).
 
 ## Example
