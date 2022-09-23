@@ -1,5 +1,5 @@
-github.com/muesli/mango v0.1.0 h1:DZQK45d2gGbql1arsYA4vfg4d7I9Hfx5rX/GCmzsAvI=
-github.com/muesli/mango v0.1.0/go.mod h1:5XFpbC8jY5UUv89YQciiXNlbi+iJgt29VDC5xbzrLL4=
+github.com/muesli/mango v0.2.0 h1:iNNc0c5VLQ6fsMgAqGQofByNUBH2Q2nEbD6TaI+5yyQ=
+github.com/muesli/mango v0.2.0/go.mod h1:5XFpbC8jY5UUv89YQciiXNlbi+iJgt29VDC5xbzrLL4=
 github.com/muesli/roff v0.1.0 h1:YD0lalCotmYuF5HhZliKWlIx7IEhiXeSfq7hNjFqGF8=
 github.com/muesli/roff v0.1.0/go.mod h1:pjAHQM9hdUUwm/krAfrLGgJkXJ+YuhtsfZ42kieB2Ig=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
