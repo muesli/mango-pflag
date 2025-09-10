@@ -1,9 +1,10 @@
 # mango-pflag
 
-[![Latest Release](https://img.shields.io/github/release/muesli/mango-pflag.svg)](https://github.com/muesli/mango-pflag/releases)
-[![Build Status](https://github.com/muesli/mango-pflag/workflows/build/badge.svg)](https://github.com/muesli/mango-pflag/actions)
-[![Go ReportCard](https://goreportcard.com/badge/muesli/mango-pflag)](https://goreportcard.com/report/muesli/mango-pflag)
-[![GoDoc](https://godoc.org/github.com/golang/gddo?status.svg)](https://pkg.go.dev/github.com/muesli/mango-pflag)
+[![Latest Release](https://img.shields.io/github/release/muesli/mango-pflag.svg?style=for-the-badge)](https://github.com/muesli/mango-pflag/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](/LICENSE)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/muesli/mango-pflag/build.yml?style=for-the-badge&branch=main)](https://github.com/muesli/mango-pflag/actions)
+[![Go ReportCard](https://goreportcard.com/badge/github.com/muesli/mango-pflag?style=for-the-badge)](https://goreportcard.com/report/muesli/mango-pflag)
+[![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=for-the-badge)](https://pkg.go.dev/github.com/muesli/mango-pflag)
 
 pflag adapter for [mango](https://github.com/muesli/mango).
 
