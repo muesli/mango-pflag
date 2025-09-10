@@ -5,5 +5,5 @@ go 1.18
 require (
 	github.com/muesli/mango v0.2.0
 	github.com/muesli/roff v0.1.0
-	github.com/spf13/pflag v1.0.5
+	github.com/spf13/pflag v1.0.10
 )
